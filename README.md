@@ -12,25 +12,25 @@ For **Future career advice**, I asked questions regarding their interest in comp
 
 **Screenshots of Sample Inputs and Outputs**
 <p align="center">
-  <img width="800" height="400" src="Screenshots/Program Listing and Screenshots 1.jpg">
+  <img width="1000" height="600" src="Screenshots/Program Listing and Screenshots 1.jpg">
 </p>
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="800" height="400" src="Screenshots/Program Listing and Screenshots 2.jpg">
+  <img width="1000" height="600" src="Screenshots/Program Listing and Screenshots 2.jpg">
 </p>
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="800" height="400" src="Screenshots/Program Listing and Screenshots 3.jpg">
+  <img width="1000" height="600" src="Screenshots/Program Listing and Screenshots 3.jpg">
 </p>
 <p align = "center">
 </p>
 
 <p align="center">
-  <img width="800" height="400" src="Screenshots/Program Listing and Screenshots 4.jpg">
+  <img width="1000" height="600" src="Screenshots/Program Listing and Screenshots 4.jpg">
 </p>
 <p align = "center">
 </p>
